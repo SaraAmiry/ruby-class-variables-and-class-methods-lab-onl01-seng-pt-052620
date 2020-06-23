@@ -32,6 +32,7 @@ class Song
       else 
         artist_count += 1 
       end 
+    end
     artist_count
   end
   
@@ -43,6 +44,7 @@ class Song
       else 
         genre_count += 1 
       end 
+    end
     genre_count
   end 
 end 
